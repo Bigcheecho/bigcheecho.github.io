@@ -27,12 +27,14 @@ Beep Sound by Entershift -- https://freesound.org/s/704134/ -- License: Creative
 
 <h3>Team Shwammies</h3>
 <img src="https://img.itch.zone/aW1nLzUxMDc3NTYucG5n/315x250%23c/i3%2Bs%2F%2F.png">
+
 <a href="https://pychatasm.itch.io/teamshwammies">itch.io link</a>
 
 This was a 3D maze game I worked on with a group of 4 on Unity 3D for Global Game Jam 2021. I was the primary programmer for this project, creating character movement, the camera script, and an enemy that chases the player.
 
 <h3>Bleeding Steam</h3>
 <img src="https://img.itch.zone/aW1nLzI5NDY5NzUucG5n/347x500/CBLZHB.png">
+
 <a href="https://bigcheecho.itch.io/bleeding-steam">itch.io link</a>
 
 This was a 2D game I created in Unity for Global Game Jam 2020. Music was created by Gunnar Clovis, while the rest of the game - code, art, and all - was created by myself.
