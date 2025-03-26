@@ -8,7 +8,7 @@ Welcome to my page! I'm a programmer mostly looking to create video games. I've 
 
 This is a WIP 2D beat-em'-up platformer game I'm creating in Godot. All code, which is written in GDscript, as well as most art assets other than the character art were created by me. The character art was done by Misha Desear, while sounds were Creative Commons sounds found online (attributions below).
 <details>
-<summary>Sound Attributions</summary>
+<summary>Sound Attributions (Click Me)</summary>
 
 Footsteps on Stone - Variations by SecureSubset -- https://freesound.org/s/784301/ -- License: Creative Commons 0
 
