@@ -9,20 +9,21 @@ Welcome to my page! I'm a programmer mostly looking to create video games. I've 
 This is a WIP 2D beat-em'-up platformer game I'm creating in Godot. All code, which is written in GDscript, as well as most art assets other than the character art were created by me. The character art was done by Misha Desear, while sounds were Creative Commons sounds found online (attributions below).
 <details>
 <summary>Sound Attributions (Click Me)</summary>
+<ul>
+<li>Footsteps on Stone - Variations by SecureSubset -- https://freesound.org/s/784301/ -- License: Creative Commons 0</li>
 
-Footsteps on Stone - Variations by SecureSubset -- https://freesound.org/s/784301/ -- License: Creative Commons 0
+<li>Kung Fu punch 1 by peridactyloptrix -- https://freesound.org/s/209392/ -- License: Creative Commons 0</li>
 
-Kung Fu punch 1 by peridactyloptrix -- https://freesound.org/s/209392/ -- License: Creative Commons 0
+<li>Woosh 4 by mateusboga -- https://freesound.org/s/614087/ -- License: Creative Commons 0</li>
 
-Woosh 4 by mateusboga -- https://freesound.org/s/614087/ -- License: Creative Commons 0
+<li>Swoosh.ogg by WizardOZ -- https://freesound.org/s/419341/ -- License: Creative Commons 0</li>
 
-Swoosh.ogg by WizardOZ -- https://freesound.org/s/419341/ -- License: Creative Commons 0
+<li>ticking of the clock 01.wav by blukotek -- https://freesound.org/s/412751/ -- License: Creative Commons 0</li>
 
-ticking of the clock 01.wav by blukotek -- https://freesound.org/s/412751/ -- License: Creative Commons 0
+<li>Magic Whoosh by DustyWind -- https://freesound.org/s/715784/ -- License: Creative Commons 0</li>
 
-Magic Whoosh by DustyWind -- https://freesound.org/s/715784/ -- License: Creative Commons 0
-
-Beep Sound by Entershift -- https://freesound.org/s/704134/ -- License: Creative Commons 0
+<li>Beep Sound by Entershift -- https://freesound.org/s/704134/ -- License: Creative Commons 0</li>
+</ul>
 </details>
 
 <h3>Team Shwammies</h3>
