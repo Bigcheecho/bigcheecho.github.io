@@ -4,7 +4,7 @@ Welcome to my page! I'm a programmer mostly looking to create video games. I've 
 <h2>Projects</h2>
 <h3>Minuteman (WIP)</h3>
 
-https://github.com/user-attachments/assets/847f8504-b27f-4f91-8864-011e06c2760d
+<video src="https://github.com/user-attachments/assets/847f8504-b27f-4f91-8864-011e06c2760d"></video>
 
 This is a WIP 2D beat-em'-up platformer game I'm creating in Godot. All code, which is written in GDscript, as well as most art assets other than the character art were created by me. The character art was done by Misha Desear, while sounds were Creative Commons sounds found online (attributions below).
 <details>
@@ -36,3 +36,5 @@ This was a 3D maze game I worked on with a group of 4 on Unity 3D for Global Gam
 <a href="https://bigcheecho.itch.io/bleeding-steam">itch.io link</a>
 
 This was a 2D game I created in Unity for Global Game Jam 2020. Music was created by Gunnar Clovis, while the rest of the game - code, art, and all - was created by myself.
+
+NSFW Unity project I've worked on is also available upon request.
