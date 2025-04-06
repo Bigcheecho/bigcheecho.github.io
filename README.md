@@ -4,8 +4,7 @@ Welcome to my page! I'm a programmer mostly looking to create video games. I've 
 <h2>Projects</h2>
 <h3>Minuteman (WIP)</h3>
 
-[![Watch the video](https://drive.google.com/file/d/1gnMzGcFYTIBkivwjIHh2BuuFyjHjGCvV/view)](https://drive.google.com/file/d/1gnMzGcFYTIBkivwjIHh2BuuFyjHjGCvV/view)
-
+[![Watch the video](https://github.com/user-attachments/assets/e1e94a10-2477-496a-be47-8a3d52a8b747)](https://drive.google.com/file/d/1gnMzGcFYTIBkivwjIHh2BuuFyjHjGCvV/view)
 
 This is a WIP 2D beat-em'-up platformer game I'm creating in Godot. All code, which is written in GDscript, as well as most art assets other than the character art were created by me. The character art was done by Misha Desear, while sounds were Creative Commons sounds found online (attributions below).
 <details>
