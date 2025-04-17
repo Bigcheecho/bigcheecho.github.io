@@ -6,6 +6,8 @@ Welcome to my page! I'm a programmer mostly looking to create video games. I've 
 
 [![Watch the video](https://github.com/user-attachments/assets/39d08841-4f81-404b-95f7-8fb4289d462f)](https://drive.google.com/file/d/1v6_fHZbwjb6nZSW0e7RHWeUZ0WqBQBoe/view?t=1)
 
+<a href="https://store.steampowered.com/app/3670900/Minute_Man">Steam Page</a>
+
 This is a WIP 2D beat-em'-up platformer game I'm creating in Godot. All code, which is written in GDscript, as well as most art assets other than the character art were created by me. The character art was done by Misha Desear, while sounds were Creative Commons sounds found online (attributions below).
 <details>
 <summary>Sound Attributions (Click Me)</summary>
