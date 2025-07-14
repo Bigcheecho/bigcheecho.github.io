@@ -4,7 +4,7 @@ Welcome to my page! I'm a programmer mostly looking to create video games. I've 
 <h2>Projects</h2>
 <h3>Minuteman (WIP)</h3>
 
-[![Watch the video](https://github.com/user-attachments/assets/39d08841-4f81-404b-95f7-8fb4289d462f)](https://drive.google.com/file/d/1v6_fHZbwjb6nZSW0e7RHWeUZ0WqBQBoe/view?t=1)
+[![Watch the video](https://github.com/user-attachments/assets/39d08841-4f81-404b-95f7-8fb4289d462f)](https://drive.google.com/file/d/1eIWkHw-mDLMB71EhjLTRR_WZI_pC3zu1/view?usp=sharing)
 
 <a href="https://store.steampowered.com/app/3670900/Minute_Man">Steam Page</a>
 
