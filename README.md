@@ -12,7 +12,7 @@ This is a WIP 2D beat-em'-up platformer game I'm creating in Godot. All code, wh
 
 <h3>Dungeon Security Contractors (WIP)</h3>
 
-<img width="1920" height="1080" alt="dscimgcropped" src="https://github.com/user-attachments/assets/3b7e3999-b30a-4c3a-b7e5-82b11c36bfdc" />
+<img width="960" height="540" src="https://github.com/user-attachments/assets/3b7e3999-b30a-4c3a-b7e5-82b11c36bfdc">
 
 This is a new project I've recently begun in Unity while waiting for Minute Man visual assets. This is (or will be) an online multiplayer game featuring two separate teams with different gameplay: Raiders, who raid a dungeon, and Contractors, who prepare traps inside of a dungeon prior to a raid and watch the raiders raid via fisheye cameras. As of now, the following has been implemented:
 - Online multiplayer simulated on localhost
