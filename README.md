@@ -8,7 +8,7 @@ Welcome to my page! I'm a programmer mostly looking to create video games. I've 
 
 <a href="https://store.steampowered.com/app/3670900/Minute_Man">Steam Page</a>
 
-This is a WIP 2D beat-em'-up platformer game I'm creating in Godot. All code, which is written in GDscript, as well as most art assets other than the character art were created by me. The character art was done by Misha Desear, while sounds were Creative Commons sounds found online and attributed in-game.
+This is a WIP 2D beat-em'-up platformer game I'm creating in Godot. All code, which is written in GDscript, as well as most art assets other than the character art were created by me. The character art was done by Misha Desear, while sounds were Creative Commons sounds found online and attributed in-game. The demo can be downloaded and played from the Steam page.
 
 <h3>Team Shwammies</h3>
 <img src="https://img.itch.zone/aW1nLzUxMDc3NTYucG5n/315x250%23c/i3%2Bs%2F%2F.png">
