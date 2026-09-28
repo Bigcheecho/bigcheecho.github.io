@@ -8,7 +8,7 @@ Welcome to my page! I'm a programmer mostly looking to create video games. I've 
 
 <a href="https://store.steampowered.com/app/3670900/Minute_Man">Steam Page</a>
 
-This is a 2D beat-em'-up platformer game written in Godot that will be released on Thursday, October 1. All code, which is written in GDscript, as well as most art assets other than the character art were created by me. The character art was done by Misha Desear, while sounds were Creative Commons sounds found online and attributed in-game.
+This is a 2D beat-em'-up platformer game written in Godot that will be released on Thursday, October 1. Virtually all of the code was created by me. Most art assets (especially character art) were created by Misha Desear, while sounds were Creative Commons sounds found online and attributed in-game.
 
 <h3>Dungeon Security Contractors (WIP)</h3>
 
