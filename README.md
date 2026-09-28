@@ -2,7 +2,7 @@
 Welcome to my page! I'm a programmer mostly looking to create video games. I've created this page mostly to show off projects I've previously worked on and am currently working on.
 
 <h2>Projects</h2>
-<h3>Minute Man
+<h3>Minute Man</h3>
 
 [![Watch the video](https://github.com/user-attachments/assets/89bec772-3e23-4435-a097-0b22d1077794)](https://youtu.be/e20LttXFYQ8)
 
